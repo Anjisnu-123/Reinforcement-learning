@@ -196,3 +196,65 @@ Essential for reinforcement learning, combining markov chains with decision maki
   - deep q learning
   - SARSA
 - Limitations in real world applications
+
+## SARSA(State-action-reward -state-action)
+- Defination
+- Assumptions
+  - MDP
+  - Exploration of state
+  - Discrete acton and state space
+- mthematical formulation
+- How to use SARSA
+- Whento use SARSA
+- Pros and cons
+- use cases
+- evaluation metrics
+- Example
+- Real world challenges
+- Code implementation
+- Variants and extension
+  - expected SARSA
+  - Deep SARSA
+  - Natural SARSA
+- Limitations in real world applications
+
+## DEEP Q-Network
+- Defination
+- Assumptions
+  - MDP
+  - Sufficient Exploration
+  - Discrete acton and state space
+- mthematical formulation
+- How to use DQN
+- Whento use DQN
+- Pros and cons
+- use cases
+- evaluation metrics
+- Example
+- Real world challenges
+- Code implementation
+- Variants and extension
+  - Double DQN
+  - Dueling DQN
+  - Prioritized Experience replay
+- Limitations in real world applications
+
+## SARSA(lambda) and Q(lambda)
+- Defination
+- Assumptions
+  - MDP
+  - Sufficient Exploration
+  - Discrete acton and state space
+- mthematical formulation
+- How to use DQN
+- Whento use DQN
+- Pros and cons
+- use cases
+- evaluation metrics
+- Example
+- Real world challenges
+- Code implementation
+- Variants and extension
+  - Expected SARSA
+  - QlXY
+- Limitations in real world applications
