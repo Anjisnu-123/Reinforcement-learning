@@ -56,4 +56,38 @@
   - Defination
   - Mathematical representation
   - Importance
+- Discount factor
+  - Defination
+  - Importance
+- Exploration vs Exploitation
+  - Defination
+  - Importance
+- Episode
+  - Defination
+  - Importance
+- Terminal state
+  - Defination
+  - Importance
+- Temporal difference learning(TD learning)
+  - Defination
+  - Importance
+- Markov decision process (MDP)
+  - Defination
+    - states
+    - Actions
+    - transistion probability function
+    - Reward function
+    - discount factor
+  - Importance
+- Policy improvement
+  - defination
+  - importance
+- Model free vs Model based learning
+  - model free learning
+    - defination
+    - importance
+  - model based learning
+    - defination
+    - IMportance
+  
 ---
