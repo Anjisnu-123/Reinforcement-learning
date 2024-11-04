@@ -162,3 +162,37 @@ Essential for reinforcement learning, combining markov chains with decision maki
   - Actor critic method
   - Trust region policy optimization
   - proximal policy optimization (PPO)
+
+## Overview of classical reinforcement learning
+
+- Need for classical RL algorithms
+- Key  concepts
+- INdustry use cases
+
+- **Evaluation metrics for classical RL algorithms :**
+    - Cumulative reward
+    - Average reward per episode
+    - discounted return
+    - policy evaluation
+    - sample efficiency
+    - convergence rate
+    - stability of learning
+## Q Learning
+- Defination
+- Assumptions
+  - MDP
+  - Exploration of state
+  - Discrete acton and state space
+- mthematical formulation
+- How to use Q learning
+- Whento use q learning
+- Pros and cons
+- use cases
+- Example
+- Real world challenges
+- Code implementation
+- Variants and extension
+  - double q learning
+  - deep q learning
+  - SARSA
+- Limitations in real world applications
