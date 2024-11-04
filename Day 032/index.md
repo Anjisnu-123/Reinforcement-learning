@@ -24,5 +24,20 @@
   - trial and error
   - updateing policy
   - convergence
-- goal
+- Goal
+
+## Core concepts and terminology in reinforcement learning
+
+- Agent
+  - Defination
+  - Importance
+- Enviroment
+  - Defination
+  - Importance
+- State
+  - Defination
+  - Importance
+- Actions
+  - Defination
+  - Importance
 ---
