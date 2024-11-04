@@ -40,4 +40,20 @@
 - Actions
   - Defination
   - Importance
+- Rewards
+  - Defination
+  - Mathematical representation
+  - Importance
+- Policy
+  - Defination
+  - Mathematical representation
+  - Importance
+- Value Function
+  - Defination
+  - Mathematical representation
+  - Importance
+- Return
+  - Defination
+  - Mathematical representation
+  - Importance
 ---
