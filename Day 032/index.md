@@ -151,3 +151,14 @@ Essential for reinforcement learning, combining markov chains with decision maki
 - Evolutionary stages
 - Hyperparameter optimization
 ---
+## Classical reinf learning algo
+- Value based method
+  - Q-learning
+  - SARSA
+  - Deep q network
+  - SARSA and Q
+- Policy based method
+  - Reinforce algorithm
+  - Actor critic method
+  - Trust region policy optimization
+  - proximal policy optimization (PPO)
