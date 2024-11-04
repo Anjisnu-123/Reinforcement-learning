@@ -125,4 +125,29 @@ Essential for reinforcement learning, combining markov chains with decision maki
 - Dynamic programming
   - Overview
   - Characteristics of dp
+  - Key algorihm used in DP commonly used in RL
+    - Policy evaluation
+    - Policy improvements
+    - policy iteration
+    - Value iteration
+    - Async dynamic programming
+    - Modified policy iteration
+- optimization theory in RL
+  - overview
+    - objective function
+    - Constraints
+    - Gradient descent
+    - Convexity
+  - Importance for RL
+- Methods of optimization used in Reinf learning
+  - Gradientd escent and its variants
+  - SGD
+  - mini batch sgd
+  - momentum
+  - adam
+  - Policy gradient method
+- value function approximation
+- dynamic programming method
+- Evolutionary stages
+- Hyperparameter optimization
 ---
