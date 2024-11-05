@@ -1,0 +1,58 @@
+# Topic
+
+## Reinforce algorithm
+- Defination
+- Assumptions
+  - Markov decision process
+  - Exploration strategy
+  - Reward structure
+- Mathematical formulation and explaination
+- policy gradient
+- gradient of the objective
+- Update rule
+- how to use reinforce algorithm
+  - initialize
+  - repeat for each episodes
+- When to use reinforce
+- pros and cons
+- use cases
+  - RObotics
+  - game playing
+  - simulation
+- Example
+- Real world interpretation
+- INtution
+- evaluation metrics
+- complexity
+- Real world challenges
+- code python
+- varinats and extensin
+  - Baseline
+  - Actor critic
+- Challenegs and limitations
+
+## Actor critic method
+- Defination
+- Assumptions
+  - markov decision process(MDP)
+  - Stochastic policy
+  - Reward structure
+- Mathematical formulation and extension
+- policy gradient
+- How to use actor critic method
+- When to use actor critic methods
+- pros and cons
+- usecase
+  - Robotics
+  - game playing
+  - simulation tasks
+- Example
+- Intution
+- Evaluation metric
+- complexity
+- Real world challenges
+- COde py
+- varriants and extensions
+  - Advantage actor critic (A2C)
+  - Asynchornos actor critic (A3C)
+- challenges and limitations
