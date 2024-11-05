@@ -77,3 +77,22 @@
   - proximal policy optimization (PPO)
   - Natural policy gradient
 - challenges
+
+## PPO
+- Defination
+- Assumptions
+- Mathematical formulation and explanation
+- How to use PPO
+- When to use PPO
+- Pros and cons
+- Use cases
+  - Robotics
+  - game playing
+  - simulations
+- Examples
+- EValuation metrics
+- Complexity
+- Real world challenges
+- Code python
+- Variants and extension
+- Challenegss and limitations
