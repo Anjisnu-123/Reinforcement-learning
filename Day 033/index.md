@@ -56,3 +56,24 @@
   - Advantage actor critic (A2C)
   - Asynchornos actor critic (A3C)
 - challenges and limitations
+
+## Trust region policy optimization
+- Defination
+- Assumptions
+  - Stochastic policies
+  - MDP
+  - Continuous and high dimensional space
+- Mathematical formulation and explaination
+- How to use TRPO
+  - Initialize
+  - repeat for each iteration
+- when to use trpo
+- pros and cons
+- use cases
+- Evaluation metrics
+- Complexity
+- Real world challenges
+- Variants and extension
+  - proximal policy optimization (PPO)
+  - Natural policy gradient
+- challenges
